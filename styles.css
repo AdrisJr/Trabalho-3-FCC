@@ -95,7 +95,7 @@ iframe{
   border-bottom: 1px solid black;
 }
 .pnav{
-  font-size: 1.4em;
+  font-size: max(20px, 30px);
 }
 @media (max-width: 600px) {
   img{
