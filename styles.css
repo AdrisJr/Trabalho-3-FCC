@@ -4,11 +4,8 @@
 html{
   border: 0;
   height: 100vh;
-  
   font-family: 'Roboto Condensed', sans-serif;
   text-shadow: 2px 2px 2px #aaa;
-  
-  
 }
 header {
   border: 0;
@@ -96,6 +93,9 @@ iframe{
 }
 #loja{
   border-bottom: 1px solid black;
+}
+.pnav{
+  font-size: 1.4em;
 }
 @media (max-width: 600px) {
   img{
